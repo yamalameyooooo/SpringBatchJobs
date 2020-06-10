@@ -1,4 +1,4 @@
-package com.javatechie.spring.scheduler.api;
+package com.shamsu.SpringBatchJobs;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
